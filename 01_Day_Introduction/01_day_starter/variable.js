@@ -18,3 +18,16 @@ const PI = 3.14              // geometrical constant
 let name = 'Asabeneh',     //name of a person
   job = 'teacher',
   live = 'Finland'
+
+// Comments can make code readable
+// Welcome to 30DaysofJavaScript
+
+/* 
+Comments can make code readable
+Easy to reuse and informative
+*/
+
+let stringVar = "String"
+let booleanVar = true 
+let undefinedVar = undefined
+let nullVar = null 
