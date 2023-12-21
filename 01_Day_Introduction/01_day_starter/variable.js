@@ -1,11 +1,11 @@
 // Declaring different variables of different data types
 
-let firstName = 'Asabeneh'    // first name of a person
-let lastName = 'Yetayeh'      // last name of a person
-let country = 'Finland'       // country
-let city = 'Helsinki'         // capital city
-let age = 100                 // age in years
-let isMarried = true
+// let firstName = 'Asabeneh'    // first name of a person
+// let lastName = 'Yetayeh'      // last name of a person
+// let country = 'Finland'       // country
+// let city = 'Helsinki'         // capital city
+// let age = 100                 // age in years
+// let isMarried = true
 
 // Declaring variables with number values
 
@@ -19,6 +19,10 @@ let name = 'Asabeneh',     //name of a person
   job = 'teacher',
   live = 'Finland'
 
+
+
+// Day 1: Exercises
+
 // Comments can make code readable
 // Welcome to 30DaysofJavaScript
 
@@ -31,3 +35,25 @@ let stringVar = "String"
 let booleanVar = true 
 let undefinedVar = undefined
 let nullVar = null 
+
+let a 
+let b
+let c 
+let d
+
+// let firstName = "Jeffrey"
+// let lastName = "Huang"
+// let isMarried = false 
+// let country = "United States"
+
+let firstName =  "Jeffrey", 
+lastName = "Huang", 
+isMarried = false, 
+country = "United States"
+city = "Berkeley",
+age = 21
+
+let myAge = 21
+let yourAge = 25
+console.log("I am", myAge, "years old.")
+console.log("You are", yourAge, "years old.")
